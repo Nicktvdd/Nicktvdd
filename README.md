@@ -4,7 +4,7 @@
 🚀 About Me
 I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki 🐝. Originally from The Netherlands 🇳🇱, I now call Finland 🇫🇮 my home. My journey into the exciting world of coding began with C and UNIX, igniting my curiosity to explore the endless possibilities of technology.
 
-🌟 Notable Projects
+🌟 Notable Projects <br>
 I'm proud to have worked on a diverse range of projects, each representing a fusion of creativity and problem-solving. Some of my creations include:
 
 Push_swap: A sorting algorithm project that efficiently sorts stacks with a limited set of operations.
