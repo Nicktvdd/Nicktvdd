@@ -14,7 +14,8 @@ Printf: My version of the famous C library function, allowing formatted output t
 🌍 Combating Climate Change
 Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues.
 
-🎓 As a student at Hive Helsinki, I'm determined to expand my programming skills and explore green technologies that promote eco-friendly practices. I aspire to develop software solutions that make a meaningful impact in the fight against climate change, while also collaborating with like-minded individuals to drive positive change.
+🎓 Goals and Aspirations
+As a student at Hive Helsinki, I'm determined to expand my programming skills and explore green technologies that promote eco-friendly practices. I aspire to develop software solutions that make a meaningful impact in the fight against climate change, while also collaborating with like-minded individuals to drive positive change.
 
 🌱 Hobbies and Interests
 In addition to my programming endeavors, I hold a background in Sport Science that nurtures my love for physical well-being and active living. During my leisure time, you can often find me engrossed in the captivating realms of fantasy books or embarking on thrilling Dungeons & Dragons quests with my friends. As I delve into coding sessions, the enchanting melodies of metal music serve as the perfect catalyst to fuel my creativity and keep me in the zone.
