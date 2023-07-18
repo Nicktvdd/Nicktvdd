@@ -5,11 +5,11 @@ I'm a creative and passionate programming enthusiast currently studying at Hive 
 🌟 Notable Projects
 I'm proud to have worked on a diverse range of projects, each representing a fusion of creativity and problem-solving. Some of my creations include:
 
-push_swap: A sorting algorithm project that efficiently sorts stacks with a limited set of operations.
-minitalk: A client-server communication program using signals to transmit messages.
-fdf: A visually stunning project that renders 3D wireframe models from elevation maps.
-philosophers: An implementation of the dining philosophers problem with multithreading and synchronization.
-printf: My version of the famous C library function, allowing formatted output to the console.
+Push_swap: A sorting algorithm project that efficiently sorts stacks with a limited set of operations.
+Minitalk: A client-server communication program using signals to transmit messages.
+Fdf: A visually stunning project that renders 3D wireframe models from elevation maps.
+Philosophers: An implementation of the dining philosophers problem with multithreading and synchronization.
+Printf: My version of the famous C library function, allowing formatted output to the console.
 
 🌍 Combating Climate Change
 Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues.
