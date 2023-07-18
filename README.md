@@ -1,32 +1,32 @@
 ### Hi there, I'm Nick 👋
 
 [![nvan-den's 42 stats](https://badge42.vercel.app/api/v2/cljy4xxx3005908ldv6yvd2la/stats?cursusId=21&coalitionId=272)](https://github.com/JaeSeoKim/badge42)
-Cool Effect
+
+![Cool Effect](giphy.gif)
+
 🚀 About Me
-I'm a passionate programming enthusiast, currently studying at Hive Helsinki 🎓. Originally from The Netherlands 🇳🇱, I now call Finland 🇫🇮 my home. My journey into the exciting world of coding began with C and UNIX, and since then, I've been crafting unique projects that blend creativity and problem-solving.
+I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki 🐝. Originally from The Netherlands 🇳🇱, I now call Finland 🇫🇮 my home. My journey into the exciting world of coding began with C and UNIX, igniting my curiosity to explore the endless possibilities of technology.
 
-⚡️ Areas of Expertise
-C Programming
-UNIX
-Problem Solving
-DevOps
-Cloud Technologies
 🌟 Notable Projects
-My repositories are a testament to my dedication and love for coding. Each project represents a fusion of art and technology, making programming not just a job but a thrilling adventure.
+I'm proud to have worked on a diverse range of projects, each representing a fusion of creativity and problem-solving. Some of my creations include:
 
-🌱 Open-Source Enthusiast
-While I'm still exploring the vast realm of open-source contributions, I'm eager to dive deeper and collaborate on exciting projects in the future.
+push_swap: A sorting algorithm project that efficiently sorts stacks with a limited set of operations.
+minitalk: A client-server communication program using signals to transmit messages.
+fdf: A visually stunning project that renders 3D wireframe models from elevation maps.
+philosophers: An implementation of the dining philosophers problem with multithreading and synchronization.
+printf: My version of the famous C library function, allowing formatted output to the console.
 
-🎯 Goals and Aspirations
-As a student at Hive Helsinki, I strive to become an expert problem solver and expand my horizons by learning different computer languages. My ambitions extend to exploring DevOps practices and immersing myself in cloud technologies to build robust and scalable solutions.
+🌍 Combating Climate Change
+Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues.
 
-💡 Approach to Problem-Solving
-When faced with challenges, I break them down into smaller, manageable tasks, apply a mix of brute force and optimization, thoroughly test my solutions, and persistently seek opportunities for improvement.
+🎓 As a student at Hive Helsinki, I'm determined to expand my programming skills and explore green technologies that promote eco-friendly practices. I aspire to develop software solutions that make a meaningful impact in the fight against climate change, while also collaborating with like-minded individuals to drive positive change.
 
-🌈 Hobbies and Interests
-Beyond programming, I'm captivated by the world of Sport Science and find inspiration in the realm of Dungeons and Dragons. During my leisure time, you can often find me immersed in the pages of fantasy books, while the enchanting tunes of metal music fuel my creativity.
+🌱 Hobbies and Interests
+In addition to my programming endeavors, I hold a background in Sport Science that nurtures my love for physical well-being and active living. During my leisure time, you can often find me engrossed in the captivating realms of fantasy books or embarking on thrilling Dungeons & Dragons quests with my friends. As I delve into coding sessions, the enchanting melodies of metal music serve as the perfect catalyst to fuel my creativity and keep me in the zone.
 
-Thanks for stopping by! If you share similar interests or have exciting projects in mind, let's connect and make the coding world even more amazing! 🎉
+Outside the digital realm, I cherish every moment spent on nature walks with my beloved wife and faithful canine companion. Exploring the beauty of the great outdoors not only rejuvenates my mind but also reinforces my commitment to sustainability and environmental awareness.
+
+Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! 🌟🌍🐝
 <!--
 
 -->
