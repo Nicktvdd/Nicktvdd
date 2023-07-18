@@ -25,4 +25,5 @@ Thank you for visiting my GitHub profile! Let's connect and create a brighter, m
 <!--
 
 -->
-[![nvan-den's 42 stats](https://badge42.vercel.app/api/v2/cljy4xxx3005908ldv6yvd2la/stats?cursusId=21&coalitionId=272)](https://github.com/JaeSeoKim/badge42) ![Cool Effect](giphy.gif)
+[![nvan-den's 42 stats](https://badge42.vercel.app/api/v2/cljy4xxx3005908ldv6yvd2la/stats?cursusId=21&coalitionId=272)](https://github.com/JaeSeoKim/badge42) <img src="giphy.gif" alt="CoderCat" width="200" />
+
