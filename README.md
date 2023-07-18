@@ -1,5 +1,4 @@
 ### Hi there, I'm Nick 👋
-### Hi there, I'm Nick 👋
 
 🚀 About Me<br>
 I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki 🐝. Originally from The Netherlands 🇳🇱, I now call Finland 🇫🇮 my home. My journey into the exciting world of coding began with C and UNIX, igniting my curiosity to explore the endless possibilities of technology.
