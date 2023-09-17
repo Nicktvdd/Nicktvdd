@@ -1,11 +1,12 @@
 ### Hi there, I'm Nick 👋
 
 🚀 About Me<br>
-I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki 🐝. Originally from The Netherlands 🇳🇱, I now call Finland 🇫🇮 my home. My journey into the exciting world of coding began with C and UNIX, igniting my curiosity to explore the endless possibilities of technology.
+I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki 🐝. Originally from The Netherlands, I now call Finland my home. My journey into the exciting world of coding began with C and UNIX, igniting my curiosity to explore the endless possibilities of technology.
 
 🌟 Notable Projects<br>
 I'm proud to have worked on a diverse range of projects, each representing a fusion of creativity and problem-solving. Some of my creations include:
 
+MiniShell: A minimal Unix-like shell with basic command execution and functionality.<br>
 Push_swap: A sorting algorithm project that efficiently sorts stacks with a limited set of operations.<br>
 Minitalk: A client-server communication program using signals to transmit messages.<br>
 Fdf: A visually stunning project that renders 3D wireframe models from elevation maps.<br>
@@ -27,5 +28,5 @@ Thank you for visiting my GitHub profile! Let's connect and create a brighter, m
 <!--
 
 -->
-[![nvan-den's 42 stats](https://badge42.vercel.app/api/v2/cljy4xxx3005908ldv6yvd2la/stats?cursusId=21&coalitionId=272)](https://github.com/JaeSeoKim/badge42) <img src="giphy.gif" alt="CoderCat" width="200" />
+<img src="giphy.gif" alt="CoderCat" width="200" />
 
