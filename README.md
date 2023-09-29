@@ -20,9 +20,7 @@ Beyond coding, I'm passionate about sustainable development and combating climat
 As a student at Hive Helsinki, I'm determined to expand my programming skills and explore green technologies that promote eco-friendly practices. I aspire to develop software solutions that make a meaningful impact in the fight against climate change, while also collaborating with like-minded individuals to drive positive change.
 
 🌱 Hobbies and Interests<br>
-In addition to my programming endeavors, I hold a background in Sport Science that nurtures my love for physical well-being and active living. During my leisure time, you can often find me engrossed in the captivating realms of fantasy books or embarking on thrilling Dungeons & Dragons quests with my friends. As I delve into coding sessions, the enchanting melodies of metal music serve as the perfect catalyst to fuel my creativity and keep me in the zone.
-
-Outside the digital realm, I cherish every moment spent on nature walks with my beloved wife and faithful canine companion. Exploring the beauty of the great outdoors not only rejuvenates my mind but also reinforces my commitment to sustainability and environmental awareness.
+In addition to my programming endeavors, I hold a background in Sport Science that nurtures my love for physical well-being and active living. During my leisure time, you can often find me engrossed in the captivating realms of fantasy books or embarking on thrilling Dungeons & Dragons quests with my friends. As I delve into coding sessions, metal music keesp me in the zone. I cherish every moment spent on nature walks with my beloved wife and doggien. Exploring the beauty of the great outdoors not only rejuvenates my mind but also reinforces my commitment to sustainability and environmental awareness.
 
 Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! 🌟🌍🐝
 <!--
