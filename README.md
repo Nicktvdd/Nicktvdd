@@ -13,7 +13,7 @@ Fdf: A visually stunning project that renders 3D wireframe models from elevation
 Philosophers: An implementation of the dining philosophers problem with multithreading and synchronization.
 Printf: My version of the famous C library function, allowing formatted output to the console.
 
-🌍 Combating Climate Change<p>
+🌍 Combating Climate Change
 Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues.
 
 🌱 Hobbies and Interests<br>
