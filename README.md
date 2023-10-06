@@ -14,9 +14,9 @@ Philosophers: An implementation of the dining philosophers problem with multithr
 Printf: My version of the famous C library function, allowing formatted output to the console.<br>
 
 🌍 Combating Climate Change<br>
-Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues. <br>
+Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues.<br>
 
-<br>🌱 Hobbies and Interests<br>
+🌱 Hobbies and Interests<br>
 In addition to my programming endeavors, I hold a background in Sport Science that nurtures my love for physical well-being and active living. During my leisure time, you can often find me engrossed in the captivating realms of fantasy books or embarking on thrilling Dungeons & Dragons quests with my friends. As I delve into coding sessions, metal music keesp me in the zone. I cherish every moment spent on nature walks with my beloved wife and doggie. Exploring the beauty of the great outdoors not only rejuvenates my mind but also reinforces my commitment to sustainability and environmental awareness.
 
 Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! 🌟🌍🐝
