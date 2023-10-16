@@ -25,3 +25,7 @@ Thank you for visiting my GitHub profile! Let's connect and create a brighter, m
 -->
 <img src="giphy.gif" alt="CoderCat" width="200" />
 
+I created and maintain these websites:
+- https://themocksofficial.com/
+- https://techtec.nl/
+
