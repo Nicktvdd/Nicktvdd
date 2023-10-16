@@ -1,6 +1,6 @@
 ## Hi there, I'm Nick 👋
 
-🚀 ## About Me<br>
+🚀 <h2> bout Me </h2> <br> 
 I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki. Originally from The Netherlands, I now call Finland my home. I come from a background in sport science and sport leisure management where I honed my skills in teamwork and problem-solving. And now I have journeyed into the exciting world of coding, igniting my curiosity to explore the endless possibilities of technology.
 
 🌟 ## Notable Projects<br>
