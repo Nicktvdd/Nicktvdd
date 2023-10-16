@@ -1,9 +1,9 @@
-## Hi there, I'm Nick 👋
+## Hi there, I'm Nick 👋 ##
 
-🚀 <h2> About Me </h2>
+<h2> 🚀 About Me </h2>
 I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki. Originally from The Netherlands, I now call Finland my home. I come from a background in sport science and sport leisure management where I honed my skills in teamwork and problem-solving. And now I have journeyed into the exciting world of coding, igniting my curiosity to explore the endless possibilities of technology.
 
-🌟 ## Notable Projects<br>
+<h2>🌟 Notable Projects</h2>
 I'm proud to have worked on a diverse range of projects, each representing a fusion of creativity and problem-solving. These projects have been build from scratch, with minimal libraries and certain limitations conform the 42 school standard. Some of my creations include:
 
 [MiniShell:](https://github.com/Nicktvdd/MiniShell) A minimal Unix-like shell with basic command execution and functionality.<br>
@@ -13,7 +13,7 @@ I'm proud to have worked on a diverse range of projects, each representing a fus
 [Philosophers:](https://github.com/Nicktvdd/philosophers) An implementation of the dining philosophers problem with multithreading and synchronization.<br>
 [Printf:](https://github.com/Nicktvdd/ft_printf) My version of the famous C library function, allowing formatted output to the console.<br>
 
-🌍 ## Combating Climate Change<br>
+<h2>🌍 Combating Climate Change</h2>
 Beyond coding, I'm passionate about sustainable development and combating climate change. My vision is to leverage technology as a powerful tool to contribute positively to the environment and raise awareness about pressing environmental issues.<br>
 
 🌱 ## Hobbies and Interests<br>
