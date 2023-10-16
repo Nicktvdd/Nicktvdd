@@ -10,7 +10,7 @@ MiniShell: A minimal Unix-like shell with basic command execution and functional
 Push_swap: A sorting algorithm project that efficiently sorts stacks with a limited set of operations.<br>
 Minitalk: A client-server communication program using signals to transmit messages.<br>
 Fdf: A visually stunning project that renders 3D wireframe models from elevation maps.<br>
-Philosophers: An implementation of the dining philosophers problem with multithreading and synchronization.<br>
+[Philosophers:](https://github.com/Nicktvdd/philosophers) An implementation of the dining philosophers problem with multithreading and synchronization.<br>
 Printf: My version of the famous C library function, allowing formatted output to the console.<br>
 
 🌍 Combating Climate Change<br>
