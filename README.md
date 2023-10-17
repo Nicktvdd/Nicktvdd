@@ -1,4 +1,4 @@
-## Hi there, I'm Nick 👋 ##
+<h1> Hi there, I'm Nick 👋 </h1>
 
 <h2> 🚀 About Me </h2>
 I'm a creative and passionate programming enthusiast currently studying at Hive Helsinki. Originally from The Netherlands, I now call Finland my home. I come from a background in sport science and sport leisure management where I honed my skills in teamwork and problem-solving. And now I have journeyed into the exciting world of coding, igniting my curiosity to explore the endless possibilities of technology.
@@ -27,4 +27,17 @@ Thank you for visiting my GitHub profile! Let's connect and create a brighter, m
 
 <h3>I created and maintain these websites:</h3>
 - https://themocksofficial.com/<br>
-- https://techtec.nl/
+- https://techtec.nl/<br>
+<br>
+<img src="https://myreadme.vercel.app/api/embed/Nicktvdd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,gcp,git,html,js,linux," />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,postman,py,react,tailwind,ts,vim,vite,vscode" />
+  </a>
+</p>
