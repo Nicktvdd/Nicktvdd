@@ -29,6 +29,6 @@
 - [TechTec](https://techtec.nl)
 
 ### 🔧 Skills
-![Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,gcp,git,html,js,linux,mongodb,nodejs,postman,py,react,tailwind,ts,vim,vite,vscode,wordpress)
+![Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,gcp,git,html,js,linux,mongodb,nodejs,postman,py,react,svelte,tailwind,ts,vim,vite,vscode,wordpress)
 
 Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! 🐝
