@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Nick 👋 </h1>
 
-### 🚀 About Me
+### :milky_way: About Me
 - Programming enthusiast studying at Hive Helsinki 🇫🇮
 - Sports science / management background, adept at teamwork and problem-solving
 - Creative, passionate and always learning
@@ -24,7 +24,7 @@
 - Metal music lover 🎸
 - Nature walks with my wife and dog 🍃
 
-### 📚 Websites
+### :octocat: Websites
 - [My Portfolio](https://nickvandendungen.com)
 - [The Mocks Official](https://themocksofficial.com)
 - [TechTec](https://techtec.nl)
@@ -32,4 +32,4 @@
 ### 🔧 Skills
 ![Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,gcp,git,github,html,js,linux,mongodb,nextjs,nodejs,postman,prisma,py,react,svelte,tailwind,ts,vercel,vim,vite,vscode,wordpress)
 
-Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! 🐝
+Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! :shipit:
