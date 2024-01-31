@@ -12,7 +12,7 @@
 - [Fdf](https://github.com/Nicktvdd/FdF): 3D wireframe models from elevation maps
 - [Philosophers](https://github.com/Nicktvdd/philosophers): Dining philosophers problem implementation
 - [Printf](https://github.com/Nicktvdd/ft_printf): Custom formatted output function
-- [Cub3D](https://github.com/YourUsername/Cub3D): 3D graphics project using raycasting technique
+- [Cub3D](https://github.com/Nicktvdd/Cub3D): 3D graphics project using raycasting technique
 
 ### 🌍 Climate Change Advocate
 - Leveraging technology for sustainable development
