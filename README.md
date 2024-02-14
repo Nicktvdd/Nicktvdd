@@ -33,4 +33,8 @@
 ### 🔧 Skills
 ![Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,gcp,git,github,html,js,jest,kotlin,ktor,linux,mongodb,nextjs,nodejs,postman,prisma,py,react,svelte,tailwind,ts,vercel,vim,vite,vscode,wordpress)
 
+### 🎓 Certifications
+![Full Stack Certification]([link_to_full_stack_certification_image](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/e852144fe88600829926603bc31dbf82)) ![TypeScript Certification](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/2bebe61b01f0da802179244b6a57b78b)
+
+
 Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! :shipit:
