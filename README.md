@@ -35,8 +35,8 @@
 
 ### 🎓 Certifications
 <div style="display: flex;">
-<img src="https://media.licdn.com/dms/image/D4D2DAQHI0HbbaVKT-w/profile-treasury-image-shrink_800_800/0/1700412699524?e=1708545600&v=beta&t=pZQMGGvVUVzJnrSSXpa_bo1JyMiBgmby-WsrqvTyTWU" alt="Full Stack Certification" width="500"> 
-<img src="https://media.licdn.com/dms/image/D562DAQH7q0Rq4KZm8Q/profile-treasury-image-shrink_800_800/0/1707915969581?e=1708545600&v=beta&t=QRhjdDQZzmNloxhyVXcBA_31XNUYckfQy70O4lQ6VHA" alt="TypeScript Certification" width="500">
+<img src="https://media.licdn.com/dms/image/D4D2DAQHI0HbbaVKT-w/profile-treasury-image-shrink_800_800/0/1700412699524?e=1708545600&v=beta&t=pZQMGGvVUVzJnrSSXpa_bo1JyMiBgmby-WsrqvTyTWU" alt="Full Stack Certification" width="400"> 
+<img src="https://media.licdn.com/dms/image/D562DAQH7q0Rq4KZm8Q/profile-treasury-image-shrink_800_800/0/1707915969581?e=1708545600&v=beta&t=QRhjdDQZzmNloxhyVXcBA_31XNUYckfQy70O4lQ6VHA" alt="TypeScript Certification" width="400">
 </div>
 
 
