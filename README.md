@@ -34,7 +34,8 @@
 ![Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,gcp,git,github,html,js,jest,kotlin,ktor,linux,mongodb,nextjs,nodejs,postman,prisma,py,react,svelte,tailwind,ts,vercel,vim,vite,vscode,wordpress)
 
 ### 🎓 Certifications
-![Full Stack Certification]([link_to_full_stack_certification_image](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/e852144fe88600829926603bc31dbf82)) ![TypeScript Certification](https://media.licdn.com/dms/image/D562DAQH7q0Rq4KZm8Q/profile-treasury-image-shrink_800_800/0/1707915969581?e=1708545600&v=beta&t=QRhjdDQZzmNloxhyVXcBA_31XNUYckfQy70O4lQ6VHA)
+![Full Stack Certification]([link_to_full_stack_certification_image](https://media.licdn.com/dms/image/D4D2DAQHI0HbbaVKT-w/profile-treasury-image-shrink_800_800/0/1700412699524?e=1708545600&v=beta&t=pZQMGGvVUVzJnrSSXpa_bo1JyMiBgmby-WsrqvTyTWU) 
+![TypeScript Certification](https://media.licdn.com/dms/image/D562DAQH7q0Rq4KZm8Q/profile-treasury-image-shrink_800_800/0/1707915969581?e=1708545600&v=beta&t=QRhjdDQZzmNloxhyVXcBA_31XNUYckfQy70O4lQ6VHA)
 
 
 Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! :shipit:
