@@ -39,5 +39,5 @@
 <img src="https://raw.githubusercontent.com/Nicktvdd/full-stack-open-pokedex/main/certificate-cicd.png" alt="CI/CD Certification" width="420">
 </div>
 
-
+</br>
 Thank you for visiting my GitHub profile! Let's connect and create a brighter, more sustainable future together! :shipit:
