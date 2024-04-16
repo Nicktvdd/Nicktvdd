@@ -8,7 +8,6 @@
 ### 🌟 Notable Projects
 - [MiniShell](https://github.com/Nicktvdd/MiniShell): A minimal Unix-like shell
 - [Push_swap](https://github.com/Nicktvdd/push_swap): Efficient sorting algorithm
-- [Fdf](https://github.com/Nicktvdd/FdF): 3D wireframe models from elevation maps
 - [Philosophers](https://github.com/Nicktvdd/philosophers): Dining philosophers problem implementation
 - [Printf](https://github.com/Nicktvdd/ft_printf): Custom formatted output function
 - [Cub3D](https://github.com/Nicktvdd/Cub3D): 3D graphics project using raycasting technique
