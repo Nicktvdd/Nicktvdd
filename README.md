@@ -6,6 +6,7 @@
 - Creative, passionate and always learning
 
 ### 🌟 Notable Projects
+- [Transcendence](https://github.com/Nicktvdd/transcendence): A full-stack Pong website
 - [MiniShell](https://github.com/Nicktvdd/MiniShell): A minimal Unix-like shell
 - [Push_swap](https://github.com/Nicktvdd/push_swap): Efficient sorting algorithm
 - [Philosophers](https://github.com/Nicktvdd/philosophers): Dining philosophers problem implementation
